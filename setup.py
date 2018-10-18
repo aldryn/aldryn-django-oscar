@@ -5,6 +5,7 @@ from aldryn_django_oscar import __version__
 REQUIREMENTS = [
     'aldryn-django',
     'django-oscar==1.2.2',
+    'django-storages==1.6.6'
 ]
 
 setup(
